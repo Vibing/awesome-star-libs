@@ -1,0 +1,73 @@
+## 目录
+
+- [ianstormtaylor / slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的框架，用于构建富文本编辑器
+- [airbnb / javascript](https://github.com/airbnb/javascript) 一种最合理的 JavaScript 书写方法（标准）
+- [zeit / pkg](https://github.com/zeit/pkg) 将 Node.js 项目打包成可执行文件
+- [veltman/flubber](https://github.com/veltman/flubber) 更流畅的动画工具
+- [langyuxiansheng / base-restfulapi-server](https://github.com/langyuxiansheng/base-restfulapi-server) 这里是一个基于 koa2 和 mysql 还有 MongoDB 的 restfulAPI 风格的 node 服务框架
+- [sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 有很多 Node.js 包和资源的精选包
+- [nestjs / nest](https://github.com/nestjs/nest) 用于在 TypeScript 和 JavaScript（ES6，ES7，ES8）之上构建高效且可扩展的服务器端应用程序的渐进式 Node.js 框架，深受 Angular 的启发
+- [jimuyouyou / node-interview-questions](https://github.com/jimuyouyou/node-interview-questions) Node.js 面试题，侧重后端应用与对 Node 核心的理解
+- [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) 深入理解 Node.js：核心思想与源码分析
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) 使用 React 构建速度快，现代的应用程序和网站
+- [chrisdickinson / raf](https://github.com/chrisdickinson/raf) requestAnimationFrame polyfill 库
+- [drcmda / react-spring](https://github.com/drcmda/react-spring) 基于 Spring 物理的 React 动画库
+- [mweststrate / immer](https://github.com/mweststrate/immer) 通过改变当前状态来创建下一个不可变状态
+- [pedronauck / docz](https://github.com/pedronauck/docz) ✍🏻 记录你的东西从未如此简单！
+- [pedronauck / reworm](https://github.com/pedronauck/reworm) 🍫 管理状态的最简单方法
+- [antvis/f2](https://github.com/antvis/f2) 📱📈 优雅，互动，灵活的移动图表库。
+- [DMQ/mvvm](https://github.com/DMQ/mvvm) 剖析 vue 实现原理，自己动手实现 mvvm
+- [nofluxjs / noflux](https://github.com/nofluxjs/noflux) 用于 JavaScript Apps 简单愚蠢的状态管理。
+- [lodash / lodash](https://github.com/lodash/lodash) 一个现代 JavaScript 实用程序库，提供模块化，性能和附加功能。
+- [marklagendijk/lodash-deep](https://github.com/marklagendijk/lodash-deep) Lodash mixins 用于（深）对象访问/操作
+- [meituan/beeshell](https://github.com/meituan/beeshell) React Native 组件库
+- [transitive-bullshit / check-links](https://github.com/transitive-bullshit/check-links) 可靠地检查一系列 URL 以获得活跃度。非常快 ⚡
+- [bbxjs / bbx](https://github.com/bbxjs/bbx) 𝕓𝕓𝕩 是一个极其简单高效的 React 状态管理方式
+- [alibaba / ice](https://github.com/alibaba/ice)  
+  🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%
+- [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript 动画引擎
+- [lyh2668 / node-sso](https://github.com/lyh2668/node-sso) 适用于 SPA 的 SSO（单点登录）实践，express 框架基础上，使用 redis 作为 session 的 store
+- [PanJiaChen / vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 🎉 一个神奇的 vue 后台管理模板
+- [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) 用于 webpack dev 服务器的 CLI 仪表板
+- [oncebot / pushbar.js](https://github.com/oncebot/pushbar.js) 用于在 Web 应用程序中创建滑动抽屉的小型 javascript 插件
+- [Financial-Times / polyfill-service](https://github.com/Financial-Times/polyfill-service) 自动 polyfill 服务
+- [rstacruz / nprogress](https://github.com/rstacruz/nprogress) 类似 YouTube，Medium 上的超薄进度条
+- [storybooks / storybook](https://github.com/storybooks/storybook) 交互式 UI 组件开发和测试：React，React Native，Vue，Angular，Ember
+- [mrhaoxiaojun / MVVM](https://github.com/mrhaoxiaojun/MVVM) 手把手教你 MVVM，史最全的注释、包含你关心的 defineProperty 结合发布者-订阅者模式实现数据的数据劫持监听，配合 compile 模版编译+watcher 做为桥梁
+- [meandmax / lory](https://github.com/meandmax/lory) ☀ 触摸使用 vanilla JavaScript 编写的轮播图，支持一图、多图(支持不同宽度)展示。
+- [yued-fe / lulu](https://github.com/yued-fe/lulu) 张鑫旭大神出品的 PC 端 UI 库
+- [sequelize / sequelize](https://github.com/sequelize/sequelize) Sequelize 是一个基于 promise 的 Node.js ORM, 目前支持 Postgres, MySQL, SQLite 和 Microsoft SQL Server. 它具有强大的事务支持, 关联关系, 读取和复制等功能.
+- [mobxjs / mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) mobx 模型驱动状态管理
+- [chenshenhai / eggjs-note](https://github.com/chenshenhai/eggjs-note) Egg.js 深入浅出学习笔记》 (每周一更)🚀🚀🚀
+- [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 用 JavaScript 实现的算法和数据结构，带有解释和进一步读数的链接
+
+- [roylee0704 / react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) 使用 CSS 模块的强大功能实现 flexboxgrid 的 React 组件
+- [josdejong/mathjs](https://github.com/josdejong/mathjs) JavaScript 和 Node.js 的数学库
+- [dt-fe / weekly](https://github.com/dt-fe/weekly) 前端精读周刊
+- [BirdLeeSCUT/pastate](https://github.com/BirdLeeSCUT/pastate) Pastate.js，响应式 react state 管理框架，为高效开发而设计
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) 让你在一个页面中掌握命令行
+- [unsplash / react-trend](https://github.com/unsplash/react-trend) 📈 简洁，优雅的折线图
+- [dvajs / dva](https://github.com/dvajs/dva) 🌱 基于 React 和 redux 的轻量级和榆木式框架。 （灵感来自榆树和 choo）
+- [ricardo-ch / react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) React 裁剪图像
+- [nswbmw / node-in-debugging](https://github.com/nswbmw/node-in-debugging) 《Node.js 调试指南》
+- [webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) ⚡️ 用于 web 的流媒体客户端
+- [jamiebuilds / babel-handbook](https://github.com/jamiebuilds/babel-handbook) 📘 关于如何使用 Babel 以及如何为 Babel 创建插件的指导手册。
+- [niklasvh / html2canvas](https://github.com/niklasvh/html2canvas) html 转 canvas
+- [kimmobrunfeldt / progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) 响应和光滑的进度条
+- [dubbo / dubbo2.js](https://github.com/dubbo/dubbo2.js) 使用 Nodejs 对接 Java 的实现
+- [wangfupeng1988 / wangEditor](https://github.com/wangfupeng1988/wangEditor) wangEditor —— 轻量级 web 富文本框
+- [stereobooster / react-ideal-image](https://github.com/stereobooster/react-ideal-image) 🖼️ 几乎理想的 React 图像组
+- [reach / router](https://github.com/reach/router) react-router 作者的另一个路由
+- [denoland / deno](https://github.com/denoland/deno) V8 上 TypeScript 的 runtime
+- [quilljs / quill](https://github.com/quilljs/quill) Quill 是一个现代 WYSIWYG 编辑器，专为兼容性和可扩展性而构建。
+- [eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) HTML5 saveAs() FileSaver 实现
+- [hustcc / timeago.js](https://github.com/hustcc/timeago.js) 🕗🕗️tinerago.js 是一个很小的（~2.0kb）库，用于用'\*\*\* time ago`语句格式化日期。例如：'3 小时前'。没有依赖和本地化和微小。
+- [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog) 冴羽写博客的地方，预计写四个系列：JavaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列。
+- [AlloyTeam / AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动，旋转，拉动刷新，页面转换和网络运动 - 丝般顺滑的触摸运动方案
+- [chenglou / react-motion](https://github.com/chenglou/react-motion) 一个解决你的动画问题的弹簧
+- [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js) 一个轻量级，无依赖性的 vanilla JavaScript 引擎，可以在整个页面上引起用户的注意力
+- [dfahlander / Dexie.js](https://github.com/dfahlander/Dexie.js) IndexedDB 的简约包装
+- [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js) ✂️ 现代复制到剪贴板。没有 Flash。只需 3kb gzipped📋
+- [klaussinani / signale](https://github.com/klaussinani/signale) 👋Hackable 控制台记录器
+- [developit / preact](https://github.com/developit/preact)⚛️Fast3kB React 采用相同的现代 API 替代品。组件和虚拟 DOM
+- ...明天继续
