@@ -70,4 +70,28 @@
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js) ✂️ 现代复制到剪贴板。没有 Flash。只需 3kb gzipped📋
 - [klaussinani / signale](https://github.com/klaussinani/signale) 👋Hackable 控制台记录器
 - [developit / preact](https://github.com/developit/preact)⚛️Fast3kB React 采用相同的现代 API 替代品。组件和虚拟 DOM
-- ...明天继续
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱
+- [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 📚 免费的计算机编程类中文书籍，欢迎投稿
+- [iamkun / dayjs](https://github.com/iamkun/dayjs) ⏰Day.js 2KB immutable 日期代替庞大的 Moment.js，具有相同的现代 API
+- [JedWatson / react-select](https://github.com/JedWatson/react-select) React.js 的 Select 组件
+- [lerna / lerna](https://github.com/lerna/lerna) 🐉 使用多个包 管理 JavaScript 项目的工具。
+- [facebookincubator / idx](https://github.com/facebookincubator/idx) 用于访问 JavaScript 对象上任意嵌套，可能为空的属性的库
+- [mobxjs / mobx](https://github.com/mobxjs/mobx) 简单，可扩展的状态管理
+- [30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) 精选的有用 JavaScript 代码段集合，您可以在 30 秒或更短的时间内理解这些代码段。
+- [danilowoz / react-content-loader](https://github.com/danilowoz/react-content-loader) ⚪️SVG 组件创建占位符加载，就像 Facebook 卡加载一样。
+- [arguiot / DisplayJS](https://github.com/arguiot/DisplayJS) 一个简单的 JavaScript 框架，不依赖任何框架和 webpack 也能做双向绑定。
+- [fians / Waves](https://github.com/fians/Waves) 点击按钮有以点击为中心的蔓延效果
+- [jamiebuilds / react-loadable](https://github.com/jamiebuilds/react-loadable) ⏳ 用于动态加载 react 组件，返回 Promise
+- [facebook / immutable-js](https://github.com/facebook/immutable-js) Javascript 的不可变持久数据集合，可提高效率和简单性。
+- [redbadger / immutable-cursor](https://github.com/redbadger/immutable-cursor) immutableJs 游标
+- [react-native-training / react-native-elements](https://github.com/react-native-training/react-native-elements) ReactNative UI 框架
+- [ReactTraining / react-router](https://github.com/ReactTraining/react-router) react-router
+- [reactnativecn / react-native-guide](https://github.com/reactnativecn/react-native-guide) React Native 指南汇集了各类 react-native 学习资源、开源 App 和组件
+- [rtfeldman / seamless-immutable](https://github.com/rtfeldman/seamless-immutable) JavaScript 的 mmutable 数据结构，与普通的 JS Arrays 和 Objects 向后兼容。
+- [clauderic / react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) 一组高阶组件，可将任何列表转换为动画，触摸友好，可排序列表 ✌️
+- [mzabriskie / react-draggable](https://github.com/mzabriskie/react-draggable) react 拖拽组件
+- [akiran / react-slick](https://github.com/akiran/react-slick) react 轮播组件
+- [Raathigesh / dazzle](https://github.com/Raathigesh/dazzle)
+  🚀 Dashboards made easy in React JS.
+- [fouber / blog](https://github.com/fouber/blog)
+  没事写写文章，喜欢的话请点 star，想订阅点 watch，千万别 fork！
