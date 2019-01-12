@@ -1,5 +1,28 @@
 ## 目录
-
+- [zeit / serve](https://github.com/zeit/serve) 展示静态文件服务和目录列表
+- [jprichardson / node-fs-extra](https://github.com/jprichardson/node-fs-extra) Node.js：fs对象的额外方法，如copy（），remove（），mkdirs（）
+- [NervJS / taro](https://github.com/NervJS/taro) 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用
+- [SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) nodejs版常用交互式命令行用户界面的集合
+- [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) 了解如何将动画带入您的Web项目
+- [lovell / sharp](https://github.com/lovell/sharp) 高性能Node.js图像处理，是调整JPEG，PNG，WebP和TIFF图像大小的最快模块。使用libvips库
+- [Tencent / omi](https://github.com/Tencent/omi) 下一代Web框架在微小的js中使用带有omio fallback（IE8 +）的Web组件
+- [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) 最大的Node.js最佳实践列表
+- [mysqljs / mysql](https://github.com/mysqljs/mysql) 在Node.js中使用mysql
+- [sequelize / sequelize](https://github.com/sequelize/sequelize) Node.js可以使用多种SQL数据库，建表、数据库增删改查等等功能。
+- [justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序开发资源汇总 💯
+- [e-oj / Magic-Grid](https://github.com/e-oj/Magic-Grid) 一个简单，轻量级的Javascript库，用于动态网格布局,比如瀑布流。
+- [bobiscool / wxDraw](https://github.com/bobiscool/wxDraw) 一个轻量级的画布库，为weapp微信小程序2d动画库提供2d绘图
+- [dawnlabs / carbon](https://github.com/dawnlabs/carbon) 可以将你的代码生成非常好看的图片
+- [ant-design / ant-motion](https://github.com/ant-design/ant-motion) Ant Design旗下非常好的动画组件
+- [javaLuo / react-luo](https://github.com/javaLuo/react-luo) 使用最新技术搭建react环境，里面有具体的依赖列表哟~
+- [video-react / video-react](https://github.com/video-react/video-react) 一个react视频播放组件。
+- [ant-design / ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) react-native UI组件库
+- [sindresorhus / query-string](https://github.com/sindresorhus/query-string) 解析url参数的必用插件
+- [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) 各种常用的css效果及布局都在这里。
+- [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac) 收集了Mac电脑中好用的工具及软件。
+- [enaqx / awesome-react](https://github.com/enaqx/awesome-react) react精品集合
+- [Vibing / awesome-chrome-devtools](https://github.com/Vibing/awesome-chrome-devtools)Chrome DevTools和DevTools精品工具和资源
+- [twitter / twemoji](https://github.com/twitter/twemoji) Emoji表情处理库
 - [ianstormtaylor / slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的框架，用于构建富文本编辑器
 - [airbnb / javascript](https://github.com/airbnb/javascript) 一种最合理的 JavaScript 书写方法（标准）
 - [zeit / pkg](https://github.com/zeit/pkg) 将 Node.js 项目打包成可执行文件
