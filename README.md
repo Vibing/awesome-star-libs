@@ -1,4 +1,29 @@
 ## 目录
+- [egoist / import-http](https://github.com/egoist/import-http) 导入远程模块
+- [jsdom / jsdom](https://github.com/jsdom/jsdom) WHATWG DOM和HTML标准的JavaScript实现，用于node.js ✨✨
+- [dzzzzzy / Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) nest.js 学习教程 📚，跟我一起学习 nest 框架~ 💪
+
+- [swc-project / swc](https://github.com/swc-project/swc) 使用rust编写的超快javascript到javascript编译器
+- [transloadit / uppy](https://github.com/transloadit/uppy) Web浏览器的下一个开源文件上传器🐶
+- [gothinkster / realworld](https://github.com/gothinkster/realworld) “所有演示应用程序的源头” - 由React，Angular，Node，Django等提供支持的示例性fullstack Medium.com克隆🏅
+- [shrekshrek / css3d-engine](https://github.com/shrekshrek/css3d-engine) css 3d引擎。非常好用。 14K
+- [vadimdemedes / ink](https://github.com/vadimdemedes/ink) 🌈React命令交互应用程序
+- [bestvist / axial3d](https://github.com/bestvist/axial3d) github 404页面的3D效果
+- [typestack / typedi](https://github.com/typestack/typedi) 用于JavaScript和TypeScript的简单而强大的依赖注入工具。
+- [typestack / routing-controllers](https://github.com/typestack/routing-controllers) 使用TypeScript和Routing Controllers Framework在Express / Koa中创建结构化，声明性和组织精美的基于类的控制器，并使用大量装饰器。
+
+- [typeorm / typeorm](https://github.com/typeorm/typeorm)  TypeScript和JavaScript（ES7，ES6，ES5）的ORM（对象关系映射）。支持MySQL，PostgreSQL，MariaDB，SQLite，MS SQL Server，Oracle，WebSQL数据库。适用于NodeJS，浏览器，Ionic，Cordova和Electron平台...... 🔥🔥
+- [Semantic-Org / Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) Semantic是一个基于自然语言有用原则的UI组件框架。
+- [alexgibson / shake.js](https://github.com/alexgibson/shake.js) 移动设备“摇一摇”事件监听
+- [hammerjs / hammer.js](https://github.com/hammerjs/hammer.js)  用于多点触控手势的javascript库：//您可以触摸它
+
+- [QiShaoXuan / css_tricks](https://github.com/QiShaoXuan/css_tricks)  Some CSS tricks,一些 CSS 常用样式
+- [webpack-china / awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn)  webpack 优秀中文文章
+- [wubaiqing / zaobao](https://github.com/wubaiqing/zaobao) 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
+- [miniMAC / magic](https://github.com/miniMAC/magic) 特殊效果的css动画
+- [Microsoft / TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter) typescript+babel的开发环境搭建 热烈推荐👍
+- [zeit / next.js](https://github.com/zeit/next.js) 一个轻量级的 React 服务端渲染应用框架
+
 - [zeit / serve](https://github.com/zeit/serve) 展示静态文件服务和目录列表
 - [jprichardson / node-fs-extra](https://github.com/jprichardson/node-fs-extra) Node.js：fs对象的额外方法，如copy（），remove（），mkdirs（）
 - [NervJS / taro](https://github.com/NervJS/taro) 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用
