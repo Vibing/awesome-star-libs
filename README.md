@@ -1,4 +1,47 @@
 ## 目录
+- [nodegit / nodegit](https://github.com/nodegit/nodegit) node git插件
+- [KaiserY / trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) Rust 程序设计语言（第二版 & 2018 edition）
+- [adonisjs / adonis-framework](https://github.com/adonisjs/adonis-framework) Node Node.js框架高度关注开发人员的人体工程学，稳定性和信心
+- [chyingp / nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+- [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍
+- [jorgebucaran / hyperapp](https://github.com/jorgebucaran/hyperapp) 1 kB用于构建声明性Web应用程序的JavaScript微框架 （react微微型）
+- [FormidableLabs / rapscallion](https://github.com/FormidableLabs/rapscallion) 将react组件通过render方法可转成htmlString或Stream
+- [petkaantonov / bluebird](https://github.com/petkaantonov/bluebird) 性能非常好的Promise库
+- [bgrins / TinyColor](https://github.com/bgrins/TinyColor) JavaScript的快速，小型颜色处理和转换
+- [liriliri / eruda](https://github.com/liriliri/eruda) 移动端控制台
+- [paulmillr / chokidar](https://github.com/paulmillr/chokidar) nodejs模块，用于监控文件
+- [imsun / gitment](https://github.com/imsun/gitment) 基于GitHub的评论系统。
+- [liady / webpack-node-externals](https://github.com/liady/webpack-node-externals) 在Webpack中轻松设置exclude，用于排除node_modules中的模块
+- [picturepan2 / instagram.css](https://github.com/picturepan2/instagram.css)  纯CSS Instagram过滤器。您可以仅使用CSS将所有这些类似Instagram的过滤器添加到您的照片中
+- [typicode / lowdb](https://github.com/typicode/lowdb) ⚡️lowledb是一个由Lodash支持的小型本地JSON数据库（支持Node，Electron和浏览器）
+- [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) 简单轻巧（3kb缩小和压缩）香草javascript插件，当你滚动时创建流畅和美丽的动画！利用最直观的互动的力量，让你的......
+- [H-Wakanda / css-animation-101-cn](https://github.com/H-Wakanda/css-animation-101-cn) 学习如何为你的 Web 程序添加动效
+- [StructureBuilder / react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) 维护组件状态并避免重复重新呈现的组件。
+
+- [yeasy / docker_practice](https://github.com/yeasy/docker_practice) 通过真正的DevOps练习，学习和了解Docker技术！
+- [vaneenige / uos](https://github.com/vaneenige/uos) 🐭一个小小的250b滚动监听器，有进度监控
+- [a-jie / AniX](https://github.com/a-jie/AniX) 🐿超简单轻量级（<3kb）JavaScript动画库
+- [remy / nodemon](https://github.com/remy/nodemon) 监视node.js应用程序中的任何更改并自动重新启动服务器 - 非常适合开发
+- [flutterchina / flutter-in-action](https://github.com/flutterchina/flutter-in-action) 《Flutter实战》电子书
+
+- [weilanwl / ColorUI](https://github.com/weilanwl/ColorUI) 鲜亮的高饱和色彩，专注视觉的小程序组件库
+- [chrisbateman / webpack-visualizer](https://github.com/chrisbateman/webpack-visualizer) 可视化您的Webpack包
+- [emotion-js / emotion](https://github.com/emotion-js/emotion) CSS-in-JS库专为高性能风格组合而设计
+- [artf / grapesjs](https://github.com/artf/grapesjs) 免费开源的web构建工具
+- [Unitech / pm2](https://github.com/Unitech/pm2) Node.js具有内置负载均衡器的生产过程管理器。
+- [epoberezkin / fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) 对比两个json对象是否一样
+- [flutter / flutter](https://github.com/flutter/flutter) Flutter可以轻松快速地构建漂亮的移动应用程序。
+- [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) 通过Tensorflow JS在客户端进行NSFW检测
+- [justadudewhohacks / face-api.js](https://github.com/justadudewhohacks/face-api.js) 用于在浏览器和具有tensorflow.js的nodejs中进行面部检测和面部识别的JavaScript API
+- [icd2k3 / react-router-breadcrumbs-hoc](https://github.com/icd2k3/react-router-breadcrumbs-hoc) 一个小巧，灵活的HOC，用于使用react-router v4和5渲染面包屑
+- [markedjs / marked](https://github.com/markedjs/marked) 一个Markdown编译器，速度很快。
+- [nosir / cleave.js](https://github.com/nosir/cleave.js) 键入时格式化输入文本内容(电话号码、日期格式、数字格式、信用卡格式、自定义格式)...
+- [oliver-moran / jimp](https://github.com/oliver-moran/jimp) 完全用JavaScript编写的图像处理库，具有零外部或本机依赖性。
+- [nanxiaobei / ant-plus](https://github.com/nanxiaobei/ant-plus) 🚀 Ant Design Form 增强版
+- [Micropoor / Micro8](https://github.com/Micropoor/Micro8) 渗透攻击超十年，由于年龄，身体原因，自己感觉快要退出一线渗透攻击了。遂打算把毕生所学用文字表写出来。
+- [Microsoft / napajs](https://github.com/Microsoft/napajs)   Napa.js：一个多线程的JavaScript运行时
+- [nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) Browser和Node.js的下一代全文搜索库
+- [shipitjs / shipit](https://github.com/shipitjs/shipit) 通用自动化和部署工具,Shipit为Capistrano或其他构建工具提供了一个很好的替代方案。它易于部署或自动执行远程服务器上的简单任务。
 - [egoist / import-http](https://github.com/egoist/import-http) 导入远程模块
 - [jsdom / jsdom](https://github.com/jsdom/jsdom) WHATWG DOM和HTML标准的JavaScript实现，用于node.js ✨✨
 - [dzzzzzy / Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) nest.js 学习教程 📚，跟我一起学习 nest 框架~ 💪
