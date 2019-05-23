@@ -1,4 +1,51 @@
 ## 目录
+- [cubiq / iscroll](https://github.com/cubiq/iscroll)iScroll是一款高性能，占用空间小，无依赖，多平台的javascript srcoll插件
+- [you-dont-need / You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) 你可能不需要moment.js，而是通过其他小型库或者一个函数即可解决。
+- [fi3ework / react-live-route](https://github.com/fi3ework/react-live-route) 📌增强的react-router-v4路由，使路由保持keep-alive状态，类似vue的keep-alive组件
+- [franciscop / ola](https://github.com/franciscop/ola) 🌊 用于插值数字的平滑动画库
+- [visionmedia / page.js](https://github.com/visionmedia/page.js) 受Express路由器启发的微客户端路由器
+- [Q42 / delighters](https://github.com/Q42/delighters) 页面滚动时添加一些动画效果，让页面更丰富
+- [kootenpv / yagmail](https://github.com/kootenpv/yagmail) yagmail使发送电子邮件变得非常容易
+- [mattboldt / typed.js](https://github.com/mattboldt/typed.js) JavaScript打字动画库
+- [infernojs / inferno](https://github.com/infernojs/inferno) 🔥一个非常快速，类似React的JavaScript库，用于构建现代用户界面
+- [minirefresh / minirefresh](https://github.com/minirefresh/minirefresh) 优雅的H5 下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. )
+- [GoogleChromeLabs / comlink](https://github.com/GoogleChromeLabs/comlink) 让WebWorkers使用起来更舒心
+- [Rocketseat / unform](https://github.com/Rocketseat/unform) Unform是一个以性能为中心的库，可以帮助您在React中利用不受控制的组件性能和React Hooks创建漂亮的表单，包括表单验证
+- [yiminghe / async-validator](https://github.com/yiminghe/async-validator) 强大的表单验证插件
+- [NervJS / nerv](https://github.com/NervJS/nerv) 一个超快的React替代品，兼容IE8和React 16。 
+- [solkimicreb / react-easy-state](https://github.com/solkimicreb/react-easy-state) 非常简单好用的React状态管理
+- [jolaleye / cssfx](https://github.com/jolaleye/cssfx) 非常常用的css点击效果和Loading效果，点击复制即可使用
+- [juliandavidmr / awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) 😏NestJS的精选列表
+- [RobinBuschmann / sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) sequelize的typescript版本，你可以使用装饰器和一些其他新特性了
+- [eggjs / egg](https://github.com/eggjs/egg) 🥚生于使用Node.js和Koa构建更好的企业框架和应用程序 
+- [fa-ge / NativeShare](https://github.com/fa-ge/NativeShare) NativeShare是一个整合了各大移动端浏览器调用原生分享的插件
+- [danistefanovic / build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 这里建立了各种语言的各种技术！！
+- [websockets / ws](https://github.com/websockets/ws) 经过全面测试的Node.js WebSocket客户端和服务器，易于使用
+- [jaywcjlove / awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) 收集了许多JS框架，Web组件库和中后台管理模板。
+- [react-component / m-tabs](https://github.com/react-component/m-tabs) 好用的React移动端Tab切换组件 
+- [hackjutsu / Lepton](https://github.com/hackjutsu/Lepton) 一个好用的代码断管理工具
+- [shenzekun / useful-tools](https://github.com/shenzekun/useful-tools) 🔨 一些有用的工具网站
+- [marcbruederlin / particles.js](https://github.com/marcbruederlin/particles.js) 轻量级的粒子背景，无依赖性和响应式javascript插件。
+- [kmagiera / react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) 声明性API将平台本机触摸和手势系统暴露给React Native。 
+- [jamiebuilds / unstated](https://github.com/jamiebuilds/unstated) 一个react状态管理库
+- [aheckmann / gm](https://github.com/aheckmann/gm) 使用node处理图像，比如图片大小、分辨率、颜色数、文件大小、以及滤镜等等。
+- [alibaba / uform](https://github.com/alibaba/uform) ⚡阿里巴巴出品，为企业提供高效的高性能Form表单解决方案
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [israeleriston / awesome-fastify](https://github.com/israeleriston/awesome-fastify) fastify精选列表
+- [alibaba / fish-redux](https://github.com/alibaba/fish-redux) 阿里巴巴出品的flutter redux 
+- [ellerbrock / awesome-koa](https://github.com/ellerbrock/awesome-koa) koa精选列表
+- [dbcli / mycli](https://github.com/dbcli/mycli) 具有AutoCompletion和语法突出显示的MySQL终端客户端。
+- [ooade / awesome-preact](https://github.com/ooade/awesome-preact) preact精选列表
+- [BoxFactura / pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) 一个好用的下拉刷新插件
+- [MithrilJS / mithril.js](https://github.com/MithrilJS/mithril.js) 用于构建单页应用程序的现代客户端Javascript框架。它很小（8.8 KB gzip压缩），速度快，提供开箱即用的路由和XHR实用程序。
+- [AngusFu / uc-qq-share-to-wechat](https://github.com/AngusFu/uc-qq-share-to-wechat) 触发手机UC、QQ浏览器的原生的微信分享功能
+- [jondot / awesome-react-native](https://github.com/jondot/awesome-react-native) React Native组件，新闻，工具和学习资料的精选列表
+- [lukechilds / merge-images](https://github.com/lukechilds/merge-images) 通过canvas轻松地将图像组合在一起
+- [jaywcjlove / hotkeys](https://github.com/jaywcjlove/hotkeys)  ➷用于捕获键盘输入的强大Javascript库。它没有依赖关系。
+- [maxogden / concat-stream](https://github.com/maxogden/concat-stream) 可写流，用于连接字符串或数据，并在回调中返回结果
+- [fastify / fastify](https://github.com/fastify/fastify) Node.js的快速和低开销Web框架
+- [octokit / webhooks.js](https://github.com/octokit/webhooks.js) Node.js的GitHub webhook事件工具集
+
 - [nodegit / nodegit](https://github.com/nodegit/nodegit) node git插件
 - [KaiserY / trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) Rust 程序设计语言（第二版 & 2018 edition）
 - [adonisjs / adonis-framework](https://github.com/adonisjs/adonis-framework) Node Node.js框架高度关注开发人员的人体工程学，稳定性和信心
