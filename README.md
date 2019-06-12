@@ -198,7 +198,7 @@
 - [reach / router](https://github.com/reach/router) react-router 作者的另一个路由
 - [denoland / deno](https://github.com/denoland/deno) V8 上 TypeScript 的 runtime
 - [quilljs / quill](https://github.com/quilljs/quill) Quill 是一个现代 WYSIWYG 编辑器，专为兼容性和可扩展性而构建。
-- [eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) HTML5 saveAs() FileSaver 实现
+- [eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) 有时我们需要在浏览器上生成文件并保存到本地，这个借助 FileSaver.js 就可以很方便地实现。FileSaver.js是一款基于HTML5完成文件保存插件，它可以帮你直接从网页中导出多种格式文件，HTML5 saveAs() FileSaver 实现
 - [hustcc / timeago.js](https://github.com/hustcc/timeago.js) 🕗🕗️tinerago.js 是一个很小的（~2.0kb）库，用于用'\*\*\* time ago`语句格式化日期。例如：'3 小时前'。没有依赖和本地化和微小。
 - [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog) 冴羽写博客的地方，预计写四个系列：JavaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列。
 - [AlloyTeam / AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动，旋转，拉动刷新，页面转换和网络运动 - 丝般顺滑的触摸运动方案
