@@ -1,4 +1,66 @@
 ## 目录
+- [herrbischoff / awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) MacOS shell命令和工具的精选列表。
+- [jwagner / smartcrop.js](https://github.com/jwagner/smartcrop.js) Smartcrop.js可以感知图片中重要的物件进行裁剪
+- [date-fns / date-fns](https://github.com/date-fns/date-fns) JavaScript 日期实用程序库
+- [alsotang / node-lessons](https://github.com/alsotang/node-lessons) 📕《Node.js 包教不包会》 
+- [JacksonTian / eventproxy](https://github.com/JacksonTian/eventproxy) EventProxy仅仅是一个很轻量的工具，但是能够带来一种事件式编程的思维变化
+- [getsentry / sentry-javascript](https://github.com/getsentry/sentry-javascript) JavaScript 异常情况监测 SDK
+- [declandewet / common-tags](https://github.com/declandewet/common-tags) 🔖 有用的HTML模板，用于处理 ES6+ 中的字符串模板
+- [zhangyd-c / JustAuth](https://github.com/zhangyd-c/JustAuth) 💯 史上最全的整合第三方登录的工具,目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest和人人等第三方平台的授权登录。 Login, so easy!
+- [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 高级前端进阶,里面包含了很多前端大厂的面试题，非常不错
+- [brix / crypto-js](https://github.com/brix/crypto-js) 加密标准的JavaScript库。
+- [AttackXiaoJinJin / jQueryExplain](https://github.com/AttackXiaoJinJin/jQueryExplain) 
+jQuery-3.3.1源码解析
+- [eashish93 / imgsquash](https://github.com/eashish93/imgsquash) Node.js 简单的图像压缩完整的网站代码，react和next.js框架。易于部署为微服务。
+- [smallnew / react-native-multibundler](https://github.com/smallnew/react-native-multibundler) react native可视化bundle拆包，支持官方的0.57~0.59版本，使用官方的metro拆包，适用于Android、iOS
+- [yorkie / react-native-wechat](https://github.com/yorkie/react-native-wechat) react-native 微信插件，微信分享、支付等功能
+- [GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) Puppeteer是一个Node库，它提供了一个高级API来控制DevTools协议上的 Chrome或Chromium 。Puppeteer 默认运行无头，但可以配置为运行完整（非无头）Chrome或Chromium
+- [amir20 / phantomjs-node](https://github.com/amir20/phantomjs-node) Node.js模块，webkit内核无头浏览器
+- [request / request](https://github.com/request/request) 🏊🏾Nodejs简化的Request对象，超级简单易用
+- [ariya / phantomjs](https://github.com/ariya/phantomjs) 可编写脚本的无头浏览器
+- [Simonwep / pickr](https://github.com/Simonwep/pickr) Color-Picker 颜色选择插件
+- [node-schedule / node-schedule](https://github.com/node-schedule/node-schedule) Node.js 定时任务模块
+- [krisk / Fuse](https://github.com/krisk/Fuse) JavaScript中的轻量级模糊搜索
+- [CarGuo / GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook) Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+- [CarGuo / GSYFlutterDemo](https://github.com/CarGuo/GSYFlutterDemo) Flutter 例子，方便新手学习上手和小问题方案解决。 目前开始逐步补全完善，主要提供一些有用或者有趣的例子
+- [CanopyTax / single-spa](https://github.com/CanopyTax/single-spa) 用于前端微服务的javascript框架，在同一页面上使用多个框架而无需刷新页面 （React，AngularJS，Angular，Ember或您正在使用的任何内容）
+- [mervick / emojionearea](https://github.com/mervick/emojionearea) jQuery的 Emoji表情插件
+- [ElemeFE / node-interview](https://github.com/ElemeFE/node-interview) 饿了么大前端关于 Nodejs 的访谈与问答，比较深入
+- [huiyan-fe / react-bmap](https://github.com/huiyan-fe/react-bmap) 基于百度地图JavaScript API封装的React组件库
+
+- [raszi / node-tmp](https://github.com/raszi/node-tmp) node.js 创建临时文件和目录
+- [paulhodel / jexcel](https://github.com/paulhodel/jexcel) jExcel是一个轻量级的vanilla javascript插件，用于创建与Excel或任何其他电子表格软件兼容的基于Web的交互式表格和电子表格。您可以从JS数组，JSON，CSV或XSLX文件创建在线电子表格表。您可以从excel复制并直接粘贴到jExcel电子表格，反之亦然。集成任何第三方javascript插件非常容易，可以创建自己的自定义列，自定义编辑器，并在应用程序中自定义任何功能。jExcel通过其原生列类型提供了大量不同的输入选项，以涵盖最常见的基于Web的应用程序需求。它是Web数据管理的完整解决方案。使用jExcel javascript电子表格创建出色的应用程序。
+- [PrismJS/prism](https://github.com/PrismJS/prism) 轻量可扩展的语法高亮插件
+- [excaliburhan / node-gitlab-webhook](https://github.com/excaliburhan/node-gitlab-webhook) gitlab 的 webhook 模块。
+- [sindresorhus / clipboardy](https://github.com/sindresorhus/clipboardy) 粘贴复制组件，不需要点击事件！
+- [sindresorhus / ora](https://github.com/sindresorhus/ora) Node模块，用于写终端交互时，加上好看的状态图标，比如 loading 状态、 完成及失败等
+- [mscdex / ssh2](https://github.com/mscdex/ssh2) 使用 Node.js 来连接远程服务器
+- [CJY0208 / react-router-cache-route](https://github.com/CJY0208/react-router-cache-route)路由缓存为React-Router，类似Vue中的<keep-alive />
+- [Availity / react-block-ui](https://github.com/Availity/react-block-ui)React 组件，它在页面上出现一个蒙层阻止用户与UI交互，比如用在提交时的 loading 状态时禁止用户操作页面
+- [Cogoport / cogo-toast](https://github.com/Cogoport/cogo-toast) React Toast消息提示组件
+- [brillout / awesome-react-components](https://github.com/brillout/awesome-react-components) 收集了非常多的精选的react组件
+- [tc39 / proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) 你还在为 data && data.people && data.people.name 这种写法而烦恼吗？ 使用此插件只需要 data?.people?.name 即可。
+- [pubkey / rxdb](https://github.com/pubkey/rxdb) JavaScript、Node应用程序的实时数据库。是用于JavaScript应用程序的NoSQL数据库，如 Websites，hybrid Apps，Electron-Apps and NodeJs。Reactive意味着您不仅可以查询当前状态，还可以订阅所有状态更改，例如查询结果甚至是文档的单个字段。这对于始终向用户显示实时状态的基于UI的应用程序非常有用。由于RxDB基于辉煌的PouchDB，因此它支持CouchDB复制协议，该协议允许您以简单方便的方式在多个客户端和服务器之间复制数据。
+- [localForage / localForage](https://github.com/localForage/localForage) 💾离线存储，改进。使用简单但功能强大的API包装IndexedDB，WebSQL或localStorage。
+- [StringEpsilon / mini-create-react-context](https://github.com/StringEpsilon/mini-create-react-context) mini版使用 React 的 createReactContext
+- [lukeed / matchit](https://github.com/lukeed/matchit) 一个快速匹配路由并解析地址的js库，规则类似 react-router 的路由匹配，比如 /foo/:bar/:baz? 
+- [sveltejs / svelte](https://github.com/sveltejs/svelte) Svelte是一种构建Web应用程序的新方法，有点类似React的JSX，更像是非常灵活的 HTML 的模板引擎。
+- [tgriesser / knex](https://github.com/tgriesser/knex) Node.js的数据库查询构建器 包括MSSQL，MySQL，PostgreSQL，SQLite3，Oracle（包括Oracle Wallet身份验证））
+- [jefflombard / ui-libraries](https://github.com/jefflombard/ui-libraries) 收集的UI框架
+- [mdbootstrap / perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) 简约完美的自定义滚动条插件
+- [dimsemenov / PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) 好用的图片（照片）浏览插件
+- [wojtekmaj / react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) React生命周期方法图。
+- [desandro / imagesloaded](https://github.com/desandro/imagesloaded) JavaScript插件，所有图片加载完成后，你要做点什么？
+- [mui-org / material-ui](https://github.com/mui-org/material-ui) 谷歌出品的UI框架 世界第一
+- [francoischalifour / medium-zoom](https://github.com/francoischalifour/medium-zoom) 🔎🖼 用于缩放图像（如Medium）的JavaScript库
+- [naptha / tesseract.js](https://github.com/naptha/tesseract.js) 一个 js 库，可以从图片中获取几乎任何文字内容。
+- [sindresorhus / slash](https://github.com/sindresorhus/slash) 将Windows反斜杠路径转换为斜杠路径
+- [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler) Node.js用于处理GitHub Webhooks的Web处理程序/中间件
+- [ bluebill1049 / react-simple-animate](https://github.com/bluebill1049/react-simple-animate) 🎯 React UI动画变得简单
+- [imagemin / imagemin](https://github.com/imagemin/imagemin) 一个可以压缩图片的  node 模块
+- [froala / design-blocks](https://github.com/froala/design-blocks) 一组170多个基于Bootstrap的设计模块，可用于创建干净的现代网站。
+-[motdotla / dotenv](https://github.com/motdotla/dotenv) Dotenv可以将 .env 文件中的环境变量加载到 process.env 使用非常方便
+- [ctrlplusb / easy-peasy](https://github.com/ctrlplusb/easy-peasy) 简单易用的React状态管理插件
 - [cubiq / iscroll](https://github.com/cubiq/iscroll)iScroll是一款高性能，占用空间小，无依赖，多平台的javascript srcoll插件
 - [you-dont-need / You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) 你可能不需要moment.js，而是通过其他小型库或者一个函数即可解决。
 - [fi3ework / react-live-route](https://github.com/fi3ework/react-live-route) 📌增强的react-router-v4路由，使路由保持keep-alive状态，类似vue的keep-alive组件
