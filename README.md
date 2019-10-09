@@ -1,4 +1,51 @@
 ## 目录
+- [rehooks / awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)  React Hooks 的精选列表
+- [github / fetch](https://github.com/github/fetch) fetch的垫片
+- [suanmei / callapp-lib](https://github.com/suanmei/callapp-lib) 🔥call app from h5（H5唤起客户端 ）
+- [yisbug / iostore](https://github.com/yisbug/iostore) 极简的全局数据管理方案，基于 React Hooks API
+- [unix / koa-ts](https://github.com/unix/koa-ts)使用依赖注入的方式+koa+typescript的搭建
+- [rbuckton / reflect-metadata](https://github.com/rbuckton/reflect-metadata) ECMAScript的元数据 reflect API的原型
+- [kitze / react-genie](https://github.com/kitze/react-genie) 一组React组件，用于在元素滚动到视口时对其进行动画处理
+- [getify / LABjs](https://github.com/getify/LABjs) 加载和阻止JavaScript：具有执行顺序依赖性的JavaScript的按需并行加载器
+- [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+- [systemjs / systemjs](https://github.com/systemjs/systemjs) 动态ES模块加载器
+- [imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) 快速安全的独立服务器，用于调整和转换远程图片的大小
+- [ElemeFE / page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) Webpack插件自动生成框架页面
+- [daumann / ECMAScript-new-features-list](https://github.com/daumann/ECMAScript-new-features-list) ES新功能的完整列表，包括ES2015（ES6），ES2016，ES2017，ES2018，ES2019
+- [winstonjs / winston](https://github.com/winstonjs/winston) 一个简单且通用的日志库，支持多种传输
+- [Tonejs / Tone.js](https://github.com/Tonejs/Tone.js) 一个Web Audio框架，用于在浏览器中制作交互式音乐。
+- [qiaozi-tech / WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer) 在微信浏览器中很好的播放视频
+- [vifird / react-keeper](https://github.com/vifird/react-keeper) React的路由库，拥有 vue 的 keep-alive 功能
+- [Qix- / color](https://github.com/Qix-/color) 🌈Javascript颜色转换和操作库
+- [Alex-D / Trumbowyg](https://github.com/Alex-D/Trumbowyg) 非常轻巧的JavaScript编辑器 近20k
+- [aui / art-template](https://github.com/aui/art-template) 好用的js模板引擎
+- [zws-im / zws](https://github.com/zws-im/zws) 缩短带有不可见空格的URL
+- [mmiszy / react-with-observable](https://github.com/mmiszy/react-with-observable) 声明式地将Observables与React结合使用！
+- [CreateJS / SoundJS](https://github.com/CreateJS/SoundJS) 一个用于处理音频的Javascript库。它提供了一个一致的API，用于在不同的浏览器和设备上加载和播放音频。当前支持WebAudio，HTML5音频，Cordova / PhoneGap和Flash后备
+- [CreateJS / PreloadJS](https://github.com/CreateJS/PreloadJS) PreloadJS使JavaScript中的预加载资源和获取聚合进度事件更加容易。如果可用，它将使用XHR2；如果不可用，则使用基于标签的加载
+- [faisalman / ua-parser-js](https://github.com/faisalman/ua-parser-js) 从userAgent字符串中识别浏览器，引擎，操作系统，CPU和设备类型/模型。支持浏览器和node.js环境。也可以作为jQuery / Zepto插件，Bower / Meteor软件包，RequireJS / AMD模块和CLI工具提供。
+- [b3log / 30-seconds-zh_CN](https://github.com/b3log/30-seconds-zh_CN)📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。
+- [jaredpalmer / formik](https://github.com/jaredpalmer/formik) 在 React 中开心的构建 Form 表单
+- [MozillaReality / immersive-custom-elements](https://github.com/MozillaReality/immersive-custom-elements) 一组Web组件，可通过使用自定义元素标签将沉浸式（VR＆AR）内容嵌入到您的网页中。目前，它包括用于 360 images、360 video
+- [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) XML到JavaScript对象的转换器
+- [stream-utils / raw-body](https://github.com/stream-utils/raw-body) 在node中，获取并验证可读流的原始body
+- [floveluy / Burnjs](https://github.com/floveluy/Burnjs) 基于koa+typescript的框架
+- [mailru / FileAPI](https://github.com/mailru/FileAPI) FileAPI-一组用于处理文件的JavaScript工具。多重上传，拖放和分块文件上传。图片：通过EXIF裁剪，调整大小和自动定向。
+- [usablica / intro.js](https://github.com/usablica/intro.js) 页面引导步骤介绍的js插件
+- [nihey / react-clipboard.js](https://github.com/nihey/react-clipboard.js) React粘贴复制组件
+- [joshmarinacci / node-pureimage](https://github.com/joshmarinacci/node-pureimage) 纯JS实现，基于HTML Canvas的图像绘制和编码的API
+- [Polymer / lit-html](https://github.com/Polymer/lit-html) 一个高效，可表达，可扩展的HTML模板库，用于JavaScript
+- [ampproject / amphtml](https://github.com/ampproject/amphtml) 增强的HTML，能节省很多时间
+- [nkbt / react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) React粘贴复制组件
+- [sampotts / plyr](https://github.com/sampotts/plyr) 一个简单的HTML5播放器
+- [microsoft / monaco-editor](https://github.com/microsoft/monaco-editor) 基于浏览器的代码编辑器
+- [davidshimjs / qrcodejs](https://github.com/davidshimjs/qrcodejs) 用于JavaScript的跨浏览器二维码生成器
+- [mattm / sql-style-guide](https://github.com/mattm/sql-style-guide) 编写干净、可维护的SQL指南。
+- [xnx3 / templatespider](https://github.com/xnx3/templatespider)扒网站工具，看好哪个网站，指定好URL，自动扒下来做成模版。所见网站，皆可为我所用！
+- [fschaefer / Probability.js](https://github.com/fschaefer/Probability.js) 提供一个概率来执行对应的方法，非常好用的概率js库。
+- [riot / riot](https://github.com/riot/riot) 一款小而美的 MVP 前端框架
+- [fabricjs / fabric.js](https://github.com/fabricjs/fabric.js) Canvas库，SVG转Canvas，非常好用的Canvas库。
+- [songxiaoliang / react-native-split-bundle](https://github.com/songxiaoliang/react-native-split-bundle) ReactNative JSBundle 拆分解决方案，实现 ReactContext 延迟异步加载，基础包、业务包按需加载。支持 RN 0.5~0.58 版本
 - [herrbischoff / awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) MacOS shell命令和工具的精选列表。
 - [jwagner / smartcrop.js](https://github.com/jwagner/smartcrop.js) Smartcrop.js可以感知图片中重要的物件进行裁剪
 - [date-fns / date-fns](https://github.com/date-fns/date-fns) JavaScript 日期实用程序库
