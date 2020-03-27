@@ -1,4 +1,57 @@
 ## 目录
+- [NodeRedis / node-redis](https://github.com/NodeRedis/node-redis) 一个高性能 Node.js Redis 客户端。
+- [grpc / grpc-node](https://github.com/grpc/grpc-node) nodejs 版的 grpc
+- [mikaelbr / node-notifier](https://github.com/mikaelbr/node-notifier) Js 模块，用于在本地 Mac、 Windows 和 Linux 上发送通知(或者用 Growl 作为后备)
+- [luin / ioredis](https://github.com/luin/ioredis) 一个健壮的、注重性能的、功能齐全的 Node.js Redis 客户端。
+- [squaremo / amqp.node](https://github.com/squaremo/amqp.node) nodejs rabbitMQ模块
+- [airbnb / lottie-web](https://github.com/airbnb/lottie-web) 在 Web、 Android 和 iOS 上原生渲染后效果动画，以及 React Native. http://airbnb.io/lottie/
+- [yfinkelstein / node-zookeeper](https://github.com/yfinkelstein/node-zookeeper) nodejs 的 Apache ZooKeeper 客户端
+- [lloyd / node-memwatch](https://github.com/lloyd/node-memwatch) 一个可以监控你的内存使用情况，发现并隔离漏洞的 node.js 库。
+- [hyj1991 / easy-monitor](https://github.com/hyj1991/easy-monitor)轻量级实时 Node.js 内核性能监控分析工具
+- [sofastack / sofa-rpc-node](https://github.com/sofastack/sofa-rpc-node) nodejs RPC 架构
+- [jaredhanson / passport](https://github.com/jaredhanson/passport)  Node.js 身份验证。
+- [NLRX-WJC / Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code) 🔥 🔥逐行剖析Vue.js源码 在线阅读地址https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
+- [scottcgi / MojoJS-Animation](https://github.com/scottcgi/MojoJS-Animation) 一个轻量级和强大的 javascript 动画引擎。
+- [microsoft / playwright](https://github.com/microsoft/playwright)Playwright是一个Node库，可通过单个API 自动执行Chromium，WebKit和Firefox浏览器。它实现了跨浏览器的 Web自动化，它是绿色的，功能强大，可靠且快速的。
+- [tsayen / dom-to-image](https://github.com/tsayen/dom-to-image) 使用 HTML5 canvas 从 DOM 节点生成图像
+- [lancedikson / bowser](https://github.com/lancedikson/bowser) 获取浏览器信息的插件
+- [immerjs / use-immer](https://github.com/immerjs/use-immer) react-hooks使用immer
+- [smapiot / piral](https://github.com/smapiot/piral) 使用微前端的下一代 web 应用框架。
+- [Paul-Browne / lazyestload.js](https://github.com/Paul-Browne/lazyestload.js) 只有当图片在 viewport 中(并保持在 viewport 中)时才加载图片
+- [pixijs / pixi.js](https://github.com/pixijs/pixi.js) 使用H5用最快、最灵活的2 d WebGL 渲染器创建漂亮的数字内容。
+- [MrSwitch / hello.js](https://github.com/MrSwitch/hello.js) 一个用于连接 OAuth2服务的 Javascript RESTFUL API 库，如 Google + API，Facebook Graph 和 Windows Live Connect
+- [fengyuanchen / cropperjs](https://github.com/fengyuanchen/cropperjs) JavaScript图片库。
+- [mattphillips / deep-object-diff](https://github.com/mattphillips/deep-object-diff) 深度对比两个对象或数组的差异，并返回不同之处
+- [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter) 一个 Node.js 网络应用程序的样板
+- [chalk / ansi-styles](https://github.com/chalk/ansi-styles) 用于终端中的样式字符串的 ANSI 转义代码
+- [timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) 中文独立博客列表
+- [strapi / strapi](https://github.com/strapi/strapi) 开源的 Node.js Headless CMS 可以轻松构建可定制的 api
+- [AobingJava / JavaFamily](https://github.com/AobingJava/JavaFamily) 【互联网一线大厂面试+学习指南】
+- [luin / medis](https://github.com/luin/medis)Medis 是一个漂亮的，易于使用的 Mac 数据库管理应用程序 Redis。
+- [OptimalBits / bull](https://github.com/OptimalBits/bull) 用于在 node.js 中处理分布式作业和消息的高级队列包。
+- [koala-coding / goodBlog](https://github.com/koala-coding/goodBlog) 【程序员成长指北】技术栈优质文章
+- [caolan / async](https://github.com/caolan/async) Nodejs和浏览器的 Async 实用程序
+- [caiyongmin / awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript) 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
+- [aliyun-node / Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) Node.js 应用线上/线下故障、压测问题和性能调优指南手册（一期更新结束）
+- [react-hook-form / react-hook-form](https://github.com/react-hook-form/react-hook-form) react-hook表单
+- [berwin / time-slicing](https://github.com/berwin/time-slicing) 时间分片
+- [CJY0208 / react-activation](https://github.com/CJY0208/react-activation) KeepAlive for React
+- [Valve / fingerprintjs2](https://github.com/Valve/fingerprintjs2) 浏览器指纹库
+- [kentcdodds / cross-env](https://github.com/kentcdodds/cross-env) 环境脚本的跨平台设置
+- [ai / nanoid](https://github.com/ai/nanoid) 一个微型的(108字节) ，安全，url 友好，独特的 JavaScript 字符串 ID 生成器
+- [webmodules / custom-event](https://github.com/webmodules/custom-event) 跨浏览器“自定义事件”构造函数
+- [dcloudio / uni-app](https://github.com/dcloudio/uni-app) uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+- [toutiaoio / awesome-architecture](https://github.com/toutiaoio/awesome-architecture) 架构师技术图谱，助你早日成为架构师
+- [FullHuman / purgecss](https://github.com/FullHuman/purgecss) 移除没有用到的css
+- [stephencookdev / speed-measure-webpack-plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) webpack插件，可以看出整个项目有所有模块加载快慢程度
+- [ximan / swipeSlide](https://github.com/ximan/swipeSlide) 移动端轮播图（基于Zepto/jQuery）
+- [flitbit / diff](https://github.com/flitbit/diff) 用于计算深度差异、捕获更改以及跨对象应用更改的 Javascript 实用程序; 用于 node.js 和浏览器。
+- [pillarjs / path-to-regexp](https://github.com/pillarjs/path-to-regexp) 将路径字符串(如‘ / user / : name’)转换为正则表达式
+- [taye / interact.js](https://github.com/taye/interact.js)javascript 拖放，调整大小和多点触摸手势惯性和抢购为现代浏览器(IE9 +)
+- [jonschlinkert / remarkable](https://github.com/jonschlinkert/remarkable) markdown插件
+- [CodeFoodPixels / node-promise-mysql](https://github.com/CodeFoodPixels/node-promise-mysql) nodejs的mysql模块，使用Promise
+- [JacksonTian / fks](https://github.com/JacksonTian/fks) 前端技能汇总，包括其前端性能、编程知识初北、部署流程、安全等等知识模块
+- [whitecolor / ts-node-dev](https://github.com/whitecolor/ts-node-dev) 使用typescript搭建的nodejs开发环境，带有热更新
 - [rehooks / awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)  React Hooks 的精选列表
 - [github / fetch](https://github.com/github/fetch) fetch的垫片
 - [suanmei / callapp-lib](https://github.com/suanmei/callapp-lib) 🔥call app from h5（H5唤起客户端 ）
