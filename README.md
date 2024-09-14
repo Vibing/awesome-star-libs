@@ -1,7 +1,193 @@
 ## 目录
 
+- [kuitos / import-html-entry](https://github.com/kuitos/import-html-entry) 导入 html 并执行里面的脚本，可用于微前端架构中的 HTML entry。乾坤框架就是使用了它来加载子应用入口HTML
+  
+- [tldraw / tldraw](https://github.com/tldraw/tldraw) 用于创建白板和画布的 SDK。
+  
+- [liabru / matter-js](https://github.com/liabru/matter-js) 二维画面物理引擎 ▲● ■
+  
+- [elysiajs / elysia](https://github.com/elysiajs/elysia) 一个极简且高性能的 Node.js Web 框架，设计的目标是提供轻量、快速且易于使用的开发体验。它专注于通过简单的 API 和良好的性能来支持构建现代 Web 应用和 API。它与其他流行的框架（如 Express.js 和 Fastify）类似，但特别注重性能和开发体验。
+  
+- [bvaughn / react-virtualized](https://github.com/bvaughn/react-virtualized) 虚拟滚动，用于高效呈现大型列表和表格数据的 React 组件
+  
+- [steveukx / git-js](https://github.com/steveukx/git-js) 用 node.js 运行 git 命令
+  
+- [ruanyf / es6tutorial](https://github.com/ruanyf/es6tutorial) 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+  
+- [QwikDev / qwik](https://github.com/QwikDev/qwik) Qwik 是一个现代化的前端框架，由 Builder.io 团队开发，专注于提高性能和优化首次加载时间。它的核心理念是通过 延迟和渐进式的组件加载 来极大地减少页面加载时间，从而提供更好的用户体验
+  
+- [module-federation / module-federation-examples](https://github.com/module-federation/module-federation-examples) webpack5 模块联邦 demo
+  
+- [qufei1993 / Nodejs-Roadmap](https://github.com/qufei1993/Nodejs-Roadmap) 【Nodejs-Roadmap】侧重于 Node.js 服务端的开发指南，公众号 “Nodejs技术栈”
+  
+- [stephentian / 33-js-concepts](https://github.com/stephentian/33-js-concepts) 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
+  
+- [krahets / hello-algo](https://github.com/krahets/hello-algo) 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+  
+- [SawyerHood / draw-a-ui](https://github.com/SawyerHood/draw-a-ui) 绘制模型并生成 HTML
+  
+- [ONLYOFFICE / DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) ONLYOFFICE Docs 是一款免费的协作式在线办公套件，包括文本、电子表格和演示文稿、表格和 PDF 的查看器和编辑器，完全兼容 Office Open XML 格式： ....
+  
+- [pmndrs / zustand](https://github.com/pmndrs/zustand) React 强大高性能的状态管理
+  
+- [vercel / async-retry](https://github.com/vercel/async-retry) 让重试变得简单、轻松和异步
+  
+- [primefaces / primeng](https://github.com/primefaces/primeng) 最完整的 Angular UI 组件库
+  
+- [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) 适用于 NodeJS 的 WhatsApp 客户端库，可通过 WhatsApp Web 浏览器应用程序进行连接
+  
+- [aidenybai / million](https://github.com/aidenybai/million) 优化 React 性能，让您的 React 速度提高 70%
+  
+- [microsoft / PowerToys](https://github.com/microsoft/PowerToys) 最大限度提高工作效率的 Windows 系统实用程序
+  
+- [dream-num / Luckysheet](https://github.com/dream-num/Luckysheet) Luckysheet 是一款类似于 excel 的在线电子表格，功能强大，配置简单，而且完全开源。
+  
+- [hejialianghe / Senior-FrontEnd](https://github.com/hejialianghe/Senior-FrontEnd) 高级开发工程师必备，打通全栈任督二脉，文档地址gitee版（Senior development engineers must understand the web body of knowledge, document addresses）：https://js.youliaowu.com
+  
+- [nrwl / nx](https://github.com/nrwl/nx) 智能 Monorepos - 一个为构建和管理单体式仓库（monorepo）而设计的工具集和扩展框架，特别适用于大型应用程序或多个应用共享代码库的场景
+  
+- [goldfire / howler.js](https://github.com/goldfire/howler.js)  Javascript 音频库
+  
+- [ustbhuangyi / vue-analysis](https://github.com/ustbhuangyi/vue-analysis) Vue.js 源码分析
+  
+- [Eugeny / tabby](https://github.com/Eugeny/tabby) 更现代化的终端
+  
+- [parallax / jsPDF](https://github.com/parallax/jsPDF) JavaScript PDF 生成功能。
+  
+- [taskforcesh / bullmq](https://github.com/taskforcesh/bullmq) BullMQ - 基于 Redis 的 NodeJS 和 Python 消息队列和批处理功能
+  
+- [vercel / turborepo](https://github.com/vercel/turborepo) 针对 JavaScript 和 TypeScript 优化的构建系统，使用 Rust 编写
+  
+- [hellof2e / quark-design](https://github.com/hellof2e/quark-design) 移动端 UI 组件库，无框架，即插即用
+  
+- [trpc / trpc](https://github.com/trpc/trpc) RPC，tRPC 可让您轻松构建和使用完全类型安全的应用程序接口，而无需模式或代码生成。
+  
+- [Sanster / IOPaint](https://github.com/Sanster/IOPaint) 由 SOTA 人工智能模型驱动的图像上色工具。 从图片中删除任何不需要的物体、缺陷、人物，或擦除和替换（由稳定扩散提供动力）图片上的任何东西。
+  
+- [digitalocean / nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) Nginx 配置生成器
+  
+- [11ty / eleventy](https://github.com/11ty/eleventy) 更简单的网站生成器。 将一个模板目录（不同类型）转换为 HTML。
+  
+- [bevacqua / dragula](https://github.com/bevacqua/dragula) 非常简单拖放操作
+  
+- [zenany / weekly](https://github.com/zenany/weekly)  汇总平时看到的好文章，前端技术 & 产品研发为主...
+  
+- [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
+  
+- [tailwindlabs / tailwindcss](https://github.com/tailwindlabs/tailwindcss) 实用至上的 CSS 框架，用于快速用户界面开发。
+  
+- [vercel / swr](https://github.com/vercel/swr) 一个用于请求接口的 React Hooks
+  
+- [BetaSu / big-react](https://github.com/BetaSu/big-react) 跟着我，从0实现React18
+  
+- [oven-sh / bun](https://github.com/oven-sh/bun) 速度快得惊人的 JavaScript 运行时，可以理解为性能很高的 nodejs
+  
+- [web3 / web3.js](https://github.com/web3/web3.js) 用于与以太坊 JSON RPC API 和实用功能交互的全面 TypeScript 库集合。
+  
+- [dropbox / zxcvbn](https://github.com/dropbox/zxcvbn) 密码强度评估
+  
+- [woai3c / visual-drag-demo](https://github.com/woai3c/visual-drag-demo) 一个低代码（可视化拖拽）教学项目
+  
+- [google / zx](https://github.com/google/zx) 通过JavaScript来写shell脚本
+  
+- [mantinedev / mantine](https://github.com/mantinedev/mantine) 功能齐全的 React 组件库
+  
+- [hujiulong / gcoord](https://github.com/hujiulong/gcoord) 地理坐标系转换工具
+  
+- [ds300 / patch-package](https://github.com/ds300/patch-package) patch-package 是一个用于修补 npm 包的工具，主要用于在项目中临时修复第三方依赖库中的问题，而无需等待库的官方更新或自己维护 fork 的版本（已经很久没更新了）
+  
+- [reduxjs / redux-toolkit](https://github.com/reduxjs/redux-toolkit) 官方的、有主见的、包含电池的工具集，用于高效开发 Redux
+  
+- [remix-run / remix](https://github.com/remix-run/remix) 建立更好的网站。 利用网络基础知识创建现代、灵活的用户体验。
+  
+- [bradvin / social-share-urls](https://github.com/bradvin/social-share-urls) 社交分享 URL
+  
+- [welldone-software / why-did-you-render](https://github.com/welldone-software/why-did-you-render) Welldone Software 推出的 why-did-you-render 是 React 的猴子修补程序，可以通知你潜在的可避免的重新呈现（也适用于 React Native）。 (也适用于 React Native）。
+  
+- [Jxck / html2json](https://github.com/Jxck/html2json) 将HTML DOM节点转成 JSON，也可以反过来将 JSON 转成 HTML
+  
+- [john-doherty / long-press-event](https://github.com/john-doherty/long-press-event) 用 1k 大小的的纯 JavaScript 在 DOM 中添加 "长按 "事件
+  
+- [wagerfield / parallax](https://github.com/wagerfield/parallax) 视差效果引擎，可对鼠标不同位置及方向做出反应
+  
+- [k8w / tsrpc](https://github.com/k8w/tsrpc) TypeScript RPC 框架具有运行时类型检查和序列化功能，同时支持 HTTP 和 WebSocket。 它非常适合网站/APP/游戏，对全栈技术人员来说也绝对得心应手...
+  
+- [ampproject / worker-dom](https://github.com/ampproject/worker-dom) 与你所知道的 DOM API 和框架相同，只不过是在 Web Worker 中。
+  
+- [sindresorhus / screenfull](https://github.com/sindresorhus/screenfull) 跨浏览器使用 JavaScript 全屏展示的简单封装器
+  
+- [microsoft / fluentui](https://github.com/microsoft/fluentui) Fluent UI web 是实用工具、React 组件和 Web 组件的集合，用于构建 Web 应用程序。
+  
+- [febobo / web-interview](https://github.com/febobo/web-interview) 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+  
+- [micro-zoe / micro-app](https://github.com/micro-zoe/micro-app)  一款简约、高效、功能强大的微前端框架
+  
+- [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw) 用于绘制手绘图表的虚拟白板
+  
+- [Oct1a / TikTok-Scheme](https://github.com/Oct1a/TikTok-Scheme) 抖音、抖音极速版、tiktok Scheme schemas获取
+  
+- [Stuk / jszip](https://github.com/Stuk/jszip) 使用 Javascript 创建、读取和编辑 .zip 文件
+  
+- [xmflswood / pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
+  
+- [rxaviers / async-pool](https://github.com/rxaviers/async-pool) 使用本地 ES6/ES7 以有限并发运行多个承诺返回和异步函数
+  
+- [joshwcomeau / use-sound](https://github.com/joshwcomeau/use-sound) 用于播放音效的 React Hook
+  
+- [octokit / octokit.js](https://github.com/octokit/octokit.js) 包含浏览器、Node.js 和 Deno 的 GitHub SDK。
+  
+- [sxei / pinyinjs](https://github.com/sxei/pinyinjs) 一个实现汉字与拼音互转的小巧web工具库
+  
+- [tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 程序员应该访问的最佳网站中文版
+  
+- [prisma / prisma](https://github.com/prisma/prisma) 适用于 Node.js 和 TypeScript 的下一代 ORM | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB
+  
+- [creativetimofficial / material-tailwind](https://github.com/creativetimofficial/material-tailwind) @material-tailwind 是一个易于使用的组件库，适用于 Tailwind CSS 和 Material Design。
+  
+- [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) 开源 Windows 和 Office 激活程序，具有 HWID、Ohook、KMS38 和在线 KMS 激活方法，以及高级故障排除功能。
+  
+- [alexmacarthur / typeit](https://github.com/alexmacarthur/typeit) 功能最全面的打字机特效库
+  
+- [lostpebble / pullstate](https://github.com/lostpebble/pullstate) 使用 immer 和 React 钩子的简单状态存储--通过在任意位置提取状态，重复使用状态的一部分！
+  
+- [MikeMcl / decimal.js](https://github.com/MikeMcl/decimal.js) JavaScript 的任意精度十进制类型
+  
+- [discordjs / discord.js](https://github.com/discordjs/discord.js) 用于与 Discord API 交互的强大 JavaScript 库
+  
+- [reactnativecn / react-native-pushy](https://github.com/reactnativecn/react-native-pushy) React Native 极速热更新服务
+  
+- [nx-js / observer-util](https://github.com/nx-js/observer-util) 一个基于 ES6 Proxy 的数据状态，可以在 JS 中监听数据变化，也可以用于 React 组件状态管理
+  
+- [BetaSu / just-react](https://github.com/BetaSu/just-react) 「React技术揭秘」 一本自顶向下的React源码分析书
+  
+- [jakesgordon / javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) JavaScript 有限状态机(状态设计模式的实现)
+  
+- [vitejs / awesome-vite](https://github.com/vitejs/awesome-vite) 与 Vite.js 相关的周别插件等精彩列表
+  
+- [salesforce / akita](https://github.com/salesforce/akita) 为 JS 应用程序量身定制的状态管理
+  
+- [pyloque / fastscan](https://github.com/pyloque/fastscan) 基于 ahocorasick 算法来快速搜索文本
+  
+- [nefe / number-precision](https://github.com/nefe/number-precision) 1K大小而快速的库，可精确进行加、减、乘、除运算
+  
+- [framer / motion](https://github.com/framer/motion) 适用于 React 的开源、可随时制作的动画和手势库
+  
+- [gaearon / react-hot-loader](https://github.com/gaearon/react-hot-loader) React 热更新
+  
+- [marcuswestin / store.js](https://github.com/marcuswestin/store.js) 跨浏览器存储，适用于所有使用情况，可在整个网络中使用
+  
+- [avkonst / hookstate](https://github.com/avkonst/hookstate) 基于 hooks 的 React 状态管理简单但功能强大、速度惊人
+  
+- [labs42io / clean-code-typescript](https://github.com/labs42io/clean-code-typescript) 编写干净简洁的Typescript指南
+  
+- [scroll-into-view / compute-scroll-into-view](https://github.com/scroll-into-view/compute-scroll-into-view) 让滚动条滚动到想要的位置，用于计算应该滚动的内容的实用程序，如何滚动由你决定
+  
+- [strongloop / loopback](https://github.com/strongloop/loopback) 一个高度可扩展的开源 Node.js 框架,可以轻松构建需要复杂集成的现代应用程序
 
+- [senecajs / seneca](https://github.com/senecajs/seneca) Node.js 的微服务工具包
 
+- [fastify / fast-json-stringify](https://github.com/fastify/fast-json-stringify) 性能是JSON.stringify()的两倍以上
+  
 - [alibaba / hooks](https://github.com/alibaba/hooks) 阿里巴巴旗下的 React Hooks库
 
 - [adamwdraper / Numeral-js](https://github.com/adamwdraper/Numeral-js) 一个用于格式化和操作数字的 javascript 库。
